@@ -1,0 +1,40 @@
+version: "3.9"
+services:
+  mysql:
+    image: mysql:8
+    environment:
+      MYSQL_DATABASE: fetin
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+    restart: unless-stopped
+
+  api:
+    build: ./fetin-api/API-Scraping
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mysql
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/fetin
+      SPRING_DATASOURCE_USERNAME: user
+      SPRING_DATASOURCE_PASSWORD: password
+    restart: unless-stopped
+
+  frontend:
+    build: ./fetin-frontend
+    ports:
+      - "80:80"    # HTTP (redireciona para HTTPS)
+      - "443:443"  # HTTPS
+    volumes:
+      - /etc/letsencrypt:/etc/letsencrypt:ro  # Mapeia certificados SSL
+    restart: unless-stopped
+    depends_on:
+      - api
+
+volumes:
+  mysql-data:
